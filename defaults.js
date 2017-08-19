@@ -58,3 +58,8 @@ var defaults = [
         }),
 
 ];
+
+var changeAttempts = function(val) {};
+var changePercent = function(val) {};
+var changeNumerator = function(val) {};
+var changeDenominator = function(val) {};
