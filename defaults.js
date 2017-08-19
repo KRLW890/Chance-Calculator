@@ -1,4 +1,4 @@
-var printin = function(str) {};
+var printin = function(str) {}; //this is just here so the file knows this function is a thing. The main program immediately changes it to equal processing.min.js' println() function. 
 
 var selected = 1;
 var percent = 100;
@@ -58,6 +58,3 @@ var defaults = [
         }),
 
 ];
-
-
-
