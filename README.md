@@ -1,4 +1,6 @@
- # Chance Calculator
+# Chance Calculator
+
+THIS IS THE OLD FILE.
 
 This is a program that calculates probability, and comes pre-programmed with data relevant to the answer.  To access this calculator, press "Clone or Download," then "Download as ZIP." Then, unzip the folder, and open the Chance-Calculator.html file included. It will open in your browser, but may not work for all browsers.  It will work in Chrome and Internet Explorer. I'm not sure about any others.
 
